@@ -27,6 +27,7 @@ Enter the power of your 1st term:
 Enter the coefficient of your 2nd term: 
 
 1/2
+
 Enter the power of your 2nd term: 
 
 2
